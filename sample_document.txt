@@ -1,0 +1,16 @@
+
+Artificial Intelligence (AI) enables machines to perform
+tasks that normally require human intelligence.
+
+Machine Learning is a branch of AI that allows computers
+to learn patterns from data and make predictions.
+
+Natural Language Processing (NLP) helps computers
+understand, process, and generate human language.
+
+Information retrieval finds relevant documents or passages
+based on a user's query.
+
+TF-IDF stands for Term Frequency-Inverse Document Frequency.
+It helps identify words that are important in a document
+relative to a collection of documents.
